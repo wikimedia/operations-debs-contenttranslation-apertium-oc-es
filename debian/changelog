@@ -1,3 +1,12 @@
+apertium-oc-es (1.0.6~r60161-1+wmf1) jessie-wikimedia; urgency=low
+
+  * Rebuild for Jessie.
+  * debian/control:
+    + Fixed dependencies.
+    + Use debhelper 9.
+
+ -- Kartik Mistry <kartik@debian.org>  Mon, 27 Jun 2016 16:50:14 +0530
+
 apertium-oc-es (1.0.6~r60161-1) trusty; urgency=low
 
   [ Tino Didriksen ]
